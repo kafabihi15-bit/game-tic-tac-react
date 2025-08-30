@@ -143,6 +143,8 @@ export default function App(){
     </div>
   )
 }
+// sasasas
+
 
 function checkWinner(squares){
   const lines = [
